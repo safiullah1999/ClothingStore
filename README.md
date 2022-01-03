@@ -1,6 +1,6 @@
 # Live Demo
 
-##[Demo](https://clothing-store-safiullah.netlify.app/)
+## ([Demo](https://clothing-store-safiullah.netlify.app/))
 
 # Getting Started with Create React App
 
