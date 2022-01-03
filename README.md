@@ -1,3 +1,7 @@
+# Live Demo
+
+##[Demo](https://clothing-store-safiullah.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
