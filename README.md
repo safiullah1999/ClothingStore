@@ -1,6 +1,6 @@
 # Live Demo
 
-## [Demo -> Clothing Store](https://clothing-store-safiullah.netlify.app/)
+## [Demo -> Clothing Store](https://react-social-authentication.netlify.app/)
 
 # Getting Started with Create React App
 
